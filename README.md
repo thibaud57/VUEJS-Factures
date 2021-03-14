@@ -1,3 +1,5 @@
+Project from Thibaud GEISLER - IFA 2021
+
 # facturation-app
 
 ## Project setup
